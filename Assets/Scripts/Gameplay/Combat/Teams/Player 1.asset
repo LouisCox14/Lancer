@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 545f1781b23d3b7488adff335576fe57, type: 3}
+  m_Name: Player 1
+  m_EditorClassIdentifier: 
+  teamName: Player 1
+  teamEntities: {fileID: 11400000, guid: 4a469669f2eccf246ae7e0c450ba0be6, type: 2}
+  actingEntity: {fileID: 0}
+  mousePos:
+    m_Name: MousePos
+    m_Type: 0
+    m_ExpectedControlType: Vector2
+    m_Id: 79d9e487-0d09-4352-ac4a-d9b7c3704098
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 1
+  hexHighlightPool: {fileID: 11400000, guid: e7251d660cb1250409fd3e556726eec1, type: 2}
